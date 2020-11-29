@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3AFA-1476
+
+ Directory of C:\Users\LENOVO\Desktop\MyProject
+
+11/29/2020  05:46 PM    <DIR>          .
+11/29/2020  05:46 PM    <DIR>          ..
+11/29/2020  05:46 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   9,814,581,248 bytes free
